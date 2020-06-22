@@ -271,7 +271,7 @@ button:focus,
     position: relative;
 }
 
-.card__thumb main{
+.card__thumb .card__intro{
     position: absolute;
     padding: 1.6em;
     bottom: 0;
